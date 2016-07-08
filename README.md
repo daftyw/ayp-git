@@ -1,5 +1,9 @@
-# ayp-git
+## ayp-git
 
+* Rawin Ngamloet [Git repo](https://github.com/daftyw/ayp-git)
+
+_Italic_
+**Bold**
 
 <<<<<<< HEAD
 Name : *Chayanit Kaensan(Pro)*
@@ -39,10 +43,15 @@ Amita Tantraporn
 Link : git@github.com:lllwilailux/learn-git.git
 
 
+<<<<<<< HEAD
 =======
 >>>>>>> 700dd41a8c956da979da726c4654242be8cfc794
 Nutdanai Prompuiy(Pearl)
 Link: git@github.com:nutdanaigit/hello-git.git
+=======
+Name : Nutdanai Prompuiy(Pearl)
+Link : git@github.com:nutdanaigit/hello-git.git
+>>>>>>> aea5e756309cb012f3fd13512d23e52fd7729079
 
 Name : *Chayanit Kaensan(Pro)*
 Link : git@github.com/slayslewslain/learn-git.git
@@ -53,16 +62,13 @@ Link : https://github.com/tofpunnakhun/hello-git.git
 Name : Theerawuth Pattarapongkit (NACK)
 Link : https://github.com/Theerawuth/hello-git
 
-<<<<<<< HEAD
 Name : Chaiwat Ratchaiwat (AOF)
-Link: git@github.com:onepiecepura/test-git.git
-=======
-
->>>>>>> 4a21566fd6c554e784004f474cece0de18db9e94
+Link : git@github.com:onepiecepura/test-git.git
 
 Name : Palm
 Link : git@github.com:plammiez/hello-git.git
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -101,3 +107,10 @@ Link:https://github.com/onepiecepura/test-git
 Name : Apinya  Pothipun (Miew)
 Link : https://github.com/miewliie/hello-git.git
 >>>>>>> 70b958c828e6d74711ff213fbca03b2b7bb307b6
+=======
+Name : Tanaphon Ble
+Link : git@github.com:tanaphonble/hello-git.git
+
+Name : Apinya  Pothipun (Miew)
+Link : https://github.com/miewliie/hello-git.git
+>>>>>>> aea5e756309cb012f3fd13512d23e52fd7729079
