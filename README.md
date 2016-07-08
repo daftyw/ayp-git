@@ -45,7 +45,7 @@ Nutdanai Prompuiy(Pearl)
 Link: git@github.com:nutdanaigit/hello-git.git
 
 Name : *Chayanit Kaensan(Pro)*
-Link : git@github.com:slayslewslain/learn-git.git
+Link : git@github.com/slayslewslain/learn-git.git
 
 Name : Punnakhun Prapapattarakhun (TOF)
 Link : https://github.com/tofpunnakhun/hello-git.git
