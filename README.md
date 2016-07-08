@@ -65,10 +65,26 @@ Link : git@github.com:plammiez/hello-git.git
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Name : Palm
 Link : git@github.com:plammiez/hello-git.git
 =======
 >>>>>>> 700dd41a8c956da979da726c4654242be8cfc794
+=======
+
+>>>>>>> 032f747ae27c1f77b221fe68a951a352ce074f26
+
+Name : Palm
+Link : git@github.com:plammiez/hello-git.git
+<<<<<<< HEAD
+
+
+>>>>>>> a81853a439205bd8abdc762db139f7bee816ff7d
+>>>>>>> e64247a5104ba0842b10577dfdf66a7109914de6
+>>>>>>> 3fe774db70ecef4b0346bef461f79bdfa9f61f9b
+=======
+>>>>>>> 6bd6129e5b5eb390a49047815b5559ba2d927476
+>>>>>>> 70b958c828e6d74711ff213fbca03b2b7bb307b6
 =======
 Name : Tanaphon Ble
 Link : git@github.com:tanaphonble/hello-git.git
@@ -79,3 +95,9 @@ Link : git@github.com:tanaphonble/hello-git.git
 Name: Chaiwat Ratchawat
 Link:https://github.com/onepiecepura/test-git
 >>>>>>> b3199685ab255dafe95a8fda8527e99bf9fa63c0
+<<<<<<< HEAD
+=======
+
+Name : Apinya  Pothipun (Miew)
+Link : https://github.com/miewliie/hello-git.git
+>>>>>>> 70b958c828e6d74711ff213fbca03b2b7bb307b6
