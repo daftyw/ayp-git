@@ -1,6 +1,7 @@
 # ayp-git
 <<<<<<< HEAD
-Hattapong Mankong(Dew)
+Name : Hattapong Mankong(Dew)
+Link : git@github.com:Dewidrew/learn-git.git
 =======
 <<<<<<< HEAD
 
