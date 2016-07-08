@@ -15,8 +15,13 @@ therdsak paradeewirai
 Name : *Chayanit Kaensan(Pro)*
 Link : git@github.com:slayslewslain/learn-git.git
 
+<<<<<<< HEAD
 Name : Hattapong Mankong(Dew)
 Link : git@github.com:Dewidrew/learn-git.git
+=======
+Name : Noppharat Busbarat (Out)
+Link : git@github.com:outnotin/hello-git.git
+>>>>>>> 6bd6129e5b5eb390a49047815b5559ba2d927476
 
 Amita Tantraporn
 
