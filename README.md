@@ -5,12 +5,13 @@
 _Italic_
 **Bold**
 
-therdsak paradeewirai
+Name : therdsak paradeewirai
+Link : https://github.com/gftherds/hello-git
 
 Name : Hattapong Mankong(Dew)
 Link : git@github.com:Dewidrew/learn-git.git
 
-Name: Wilailux Lomwongpaiboon(Zin)
+Name : Wilailux Lomwongpaiboon(Zin)
 Link : git@github.com:lllwilailux/learn-git.git
 
 Name : Noppharat Busbarat (Out)
