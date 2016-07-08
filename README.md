@@ -1,10 +1,15 @@
 # ayp-git
 <<<<<<< HEAD
 <<<<<<< HEAD
+Name : Hattapong Mankong(Dew)
+Link : git@github.com:Dewidrew/learn-git.git
+=======
+<<<<<<< HEAD
 Amita Tantraporn
 =======
 <<<<<<< HEAD
 Hattapong Mankong(Dew)
+>>>>>>> 77cd1bb2db9dfbcfb0c908d2e6aa7a32cd765d2c
 =======
 <<<<<<< HEAD
 Wilailux Lomwongpaiboon(Zin)
