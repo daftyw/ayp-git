@@ -6,6 +6,7 @@ _Italic_
 **Bold**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Name : *Chayanit Kaensan(Pro)*
 Link : git@github.com:slayslewslain/learn-git.git
 
@@ -21,11 +22,15 @@ Name : *Chayanit Kaensan(Pro)*
 Link : git@github.com:slayslewslain/learn-git.git
 =======
 therdsak paradeewirai
+=======
+Name : therdsak paradeewirai
+Link : https://github.com/gftherds/hello-git
+>>>>>>> 1d2f1b6a7555db2d799920661754204b3df2cd4b
 
 Name : Hattapong Mankong(Dew)
 Link : git@github.com:Dewidrew/learn-git.git
 
-Name: Wilailux Lomwongpaiboon(Zin)
+Name : Wilailux Lomwongpaiboon(Zin)
 Link : git@github.com:lllwilailux/learn-git.git
 >>>>>>> 700dd41a8c956da979da726c4654242be8cfc794
 
